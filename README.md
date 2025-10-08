@@ -23,3 +23,7 @@ Providing actionable recommendations to help the management make informed busine
 
 Outcome
 This analysis helped identify trends in revenue, occupancy, and bookings across different hotels and cities, giving the management clear insights to plan strategies and improve performance.
+
+## Provided Mock-up Dashboard
+
+<img width="1280" height="800" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/edb8983f-c87b-42c6-8369-a50086daaabe" />
