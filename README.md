@@ -27,9 +27,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 <img width="1082" height="725" alt="Screenshot 2025-10-08 133938" src="https://github.com/user-attachments/assets/b80525f3-5960-44e8-a0a2-adafafa651ae" />
 
-# Overall Analysis: 
+# KPI Analysis: 
 
 <img width="1316" height="677" alt="Screenshot 2025-10-02 131526" src="https://github.com/user-attachments/assets/3771d608-d0c2-46d0-9a68-8ed75de09025" />
+
+
+# Revenue & Occupancy Insights
 
 <img width="1292" height="650" alt="Screenshot 2025-10-02 131539" src="https://github.com/user-attachments/assets/b38654f6-314c-417b-96a7-cadd1ccd3176" />
 
