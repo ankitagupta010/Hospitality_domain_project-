@@ -2,7 +2,7 @@
 
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+Link to the [Live Dashboard]([https://codebasics.io/challenge/codebasics-resume-project-challenge](https://app.powerbi.com/view?r=eyJrIjoiODU5MzkxNzctOTc0Yy00ZDU5LWE1MWEtZjBmMDg1NjE1ZDEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 Link to [Presentation Video](https://www.linkedin.com/posts/ankitagupta010_codebasicsresumechallenge-powerbi-dataanalytics-activity-7379442373241516034-Kmap?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_Q8JkB8qHUHiKwaTn5R3l_T_U8sojiScM)
 
