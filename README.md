@@ -22,3 +22,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Provided Mock-up Dashboard
 
 <img width="1280" height="800" alt="mock up dashboard_atliq grands" src="https://github.com/user-attachments/assets/edb8983f-c87b-42c6-8369-a50086daaabe" />
+
+## Data Model
+
+<img width="1082" height="725" alt="Screenshot 2025-10-08 133938" src="https://github.com/user-attachments/assets/b80525f3-5960-44e8-a0a2-adafafa651ae" />
+
+
