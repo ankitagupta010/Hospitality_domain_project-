@@ -27,4 +27,30 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 <img width="1082" height="725" alt="Screenshot 2025-10-08 133938" src="https://github.com/user-attachments/assets/b80525f3-5960-44e8-a0a2-adafafa651ae" />
 
+# Learnings from the Project:
+
+Built a calendar visual using a matrix table to analyze data in different ways.
+
+Explored hotel cancellation policies — most hotels offer free cancellation up to 3 months before booking, then charge 60–90% afterward.
+
+Used bookmarks and selection for page navigation and filter reset buttons (like website-style navigation).
+
+Followed a consistent color palette throughout the dashboard for a clean look.
+
+# Key Insights:
+
+Mumbai generated the highest revenue (₹669M), followed by Bangalore, Hyderabad, and Delhi.
+
+AtliQ Exotica performed best with ₹320M revenue, 3.62 rating, 57% occupancy, and 24.4% cancellations.
+
+AtliQ Bay had the highest occupancy (66%).
+
+Week 24 saw the highest revenue (₹139.6M).
+
+Delhi led in both occupancy and rating.
+
+Cancellations caused a loss of about ₹298M.
+
+Elite rooms had the most bookings but also the highest cancellation rate.
+
 
